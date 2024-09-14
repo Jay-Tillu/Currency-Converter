@@ -2,7 +2,7 @@
 // We import all the components here and then we export all from here.
 // RECOMMENDED FOR PRODUCTION
 
-import InputBox from "./Inputbox";
+import InputBox from "./InputBox";
 
 export { InputBox }
 // export { InputBox, AnotherComponent }
