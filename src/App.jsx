@@ -23,7 +23,7 @@ function App() {
   };
 
   const backgroundImageUrl =
-    "https://img.freepik.com/free-vector/gradient-stock-market-concept_23-2149166910.jpg?t=st=1726080415~exp=1726084015~hmac=09865c0411811a8ed91351b8023160beadd6cdf6be5fe42d99b2678db9c974e0&w=1800";
+    "https://images.pexels.com/photos/6478886/pexels-photo-6478886.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1";
 
   return (
     <div
